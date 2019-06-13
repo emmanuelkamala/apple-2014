@@ -101,6 +101,7 @@ nav ul:after {
     border-right: none;
     padding-left: 2em;
     margin-top: 6px;
+    transition: width .2s ease-in;
 }
 
 
