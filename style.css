@@ -7,12 +7,12 @@ html, body, main, header, nav, footer, div, ul, aside, li, p, a {
 
 /* BODY */
 
-main {
+body {
     position: absolute;
     width: 100%;
 }
 
-header {
+main {
 
     background: url(images/hero.jpg);
     background-position: 50% 100%;
@@ -156,7 +156,12 @@ h1 {
 }
 
 
-aside {
+
+   
+/* FOOTER */
+
+
+.top {
     width: 1425px;
 
 }
@@ -169,11 +174,8 @@ aside {
     height: 200px;
 }
 
-   
-/* FOOTER */
 
-
-footer {
+.bottom {
     width: 920px;
     
 }
@@ -210,7 +212,7 @@ footer {
 }
 
 
-.links:after {
+.bottom:after {
     content: "";
     display:block;
     clear:both;
