@@ -216,6 +216,11 @@ footer {
 }
 .copyright {
     margin-bottom: 20px;
+}
+
+
+.copyright a:hover {
+         text-decoration: underline;
      }
 
 .footer-links ul img {
