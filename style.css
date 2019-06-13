@@ -114,7 +114,7 @@ nav ul:after {
     border-radius: 1em;
  background: white url(images/search-icon-transparent-black.jpg) 10px 50% no-repeat;
  background-size: 12px 12px;
- border-color: none;
+ outline: none;
 
 }
 
