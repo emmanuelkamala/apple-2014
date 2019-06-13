@@ -3,4 +3,4 @@ This is a clone creation of the old apple.com homepage. The idea behind the proj
 # Contributor
 Emmanuel J. Kamala (<a href="https://github.com/emmanuelkamala">@emmanuelkamala</a>)
 # Live Version
-https://raw.githack.com/emmanuelkamala/apple/development/index.html
+https://emmanuelkamala.github.io/apple-2014/
